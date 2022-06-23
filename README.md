@@ -21,7 +21,7 @@
 
 - 📫 Meu email e: **fabriciodesenvolvedordeti@gmail.com**
 
-- 📄 Meus pontos fortes: [Adoro aprender trabalhar em equipe e desenvolver capacidades!](Adoro aprender trabalhar em equipe e desenvolver capacidades!)
+- 📄 Meus pontos fortes: **Adoro trabalhar em equipe e desenvolver capacidades!**
 
 - ⚡ Sou uma pessoa: **Alegre divertida e extrovertida!**
 
