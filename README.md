@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Fabricio Borsato de Oliveira Perrone</h1>
 <h3 align="center">Um amante da programação e videogames formado em analise e desenvolvimento de sistemas</h3>
 
