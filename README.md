@@ -19,7 +19,7 @@
 
 - 💬 Pergunte-me sobre: **TUDO O QUE DESEJAR**
 
-- 📫 meu email e: [fabriciodesenvolvedordeti@gmail.com](fabriciodesenvolvedordeti@gmail.com)
+- 📫 meu email e: [<a href="mailto:fabriciodesenvolvedordeti@gmail.com">Enviar e-mail</a>](<a href="mailto:fabriciodesenvolvedordeti@gmail.com">Enviar e-mail</a>)
 
 - 📄 Meus pontos fortes sao: **Adoro trabalhar em equipe e desenvolver capacidades**
 
