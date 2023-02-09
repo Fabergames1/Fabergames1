@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabergames1" alt="fabergames1" /></a> </p>
 
-- 🔭 Atualmente trabalho na empresa: **Procurando emprego**
+- 🔭 Atualmente trabalho na empresa: **Procurando emprego!**
 
-- 🌱 Atualmente meus hobbies sao: **Games, animes e leitura**
+- 🌱 Atualmente meus hobbies sao: **Games, animes e leitura!**
 
-- 👯 Meu relacionamento atual e: **Solteiro**
+- 👯 Meu relacionamento atual e: **Solteiro!**
 
 - 🤝 Estou disposto a ajudar as: **Pessoas necessitadas!**
 
@@ -17,13 +17,13 @@
 
 - 📝 Meu principal local de estudo: [Udemy.com](Udemy.com)
 
-- 💬 Pergunte-me sobre: **TUDO O QUE DESEJAR**
+- 💬 Pergunte-me sobre: **TUDO O QUE DESEJAR!**
 
 - 📫 meu email e: **fabriciodesenvolvedordeti@gmail.com**
 
-- 📄 Meus pontos fortes sao: **Adoro trabalhar em equipe e desenvolver capacidades**
+- 📄 Meus pontos fortes sao: **Adoro trabalhar em equipe e desenvolver capacidades!**
 
-- ⚡ Sou uma pessoa: **Alegre, divertida e extrovertida**
+- ⚡ Sou uma pessoa: **Alegre, divertida e extrovertida!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
