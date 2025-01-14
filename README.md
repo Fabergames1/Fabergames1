@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabergames1" alt="fabergames1" /></a> </p>
 
-- 🔭 Atualmente trabalho na empresa **Procurando Emprego**
+- 🔭 Atualmente trabalho na empresa: **Procurando Emprego**
 
-- 🌱 Atualmente meus hobbies sao **Games, Animes e Leitura!**
+- 🌱 Atualmente meus hobbies sao: **Games, Animes e Leitura!**
 
-- 👯 Meu relacionamento atual e **Solteiro!**
+- 👯 Meu relacionamento atual: e **Solteiro!**
 
-- 🤝 Estou disposto a ajudar as **Pessoas Necessitadas!**
+- 🤝 Estou disposto a ajudar as: **Pessoas Necessitadas!**
 
 - 👨‍💻 meu linkedin e: [https://www.linkedin.com/in/fabricio-perrone-1709221a5](https://www.linkedin.com/in/fabricio-perrone-1709221a5)
 
