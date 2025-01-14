@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabergames1" alt="fabergames1" /></a> </p>
 
-- 🔭 Atualmente trabalho na empresa: **Procurando Emprego**
+- 🔭 Atualmente trabalho na empresa: **Procurando Emprego!**
 
 - 🌱 Atualmente meus hobbies sao: **Games, Animes e Leitura!**
 
