@@ -40,4 +40,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabergames1&show_icons=true&locale=en&theme=onedark" alt="fabergames1" /></p>
 
-<p><img align="center" href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=fabergames1&theme=onedark" alt="fabergames1" /></p>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=fabergames1&theme=onedark" alt="GitHub Streak" /></a>
