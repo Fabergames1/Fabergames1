@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabricio Borsato de Oliveira Perrone</h1>
 <h3 align="center">Um amante da programação e videogames formado em analise e desenvolvimento de sistemas</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabergames1&label=Profile%20views&color=0e75b6&style=flat" alt="fabergames1" /> </p>
+<p>[![trophy](https://github-profile-trophy.vercel.app/?username=fabergames1&theme=onedark)](https://github.com/fabergames1/github-profile-trophy)</p> 
 
 <p align="left"> <a href="https://github.com/fabergames1/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabergames1&theme=onedark" alt="fabergames1" /></a> </p>
 
