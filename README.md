@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/Fabergames1/github-profile-trophy"><img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Fabergames1&theme=dracula" alt="fabergames1" /></a> </p>
 
-- 🔭 Atualmente trabalho na empresa: **Procurando Emprego!**
+- 🔭 Atualmente trabalho na empresa: **Faber.games and Epic Games!**
 
 - 🌱 Atualmente meus hobbies sao: **Games, Animes e Leitura!**
 
