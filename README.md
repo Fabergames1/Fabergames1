@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fabricio Borsato de Oliveira Perrone</h1>
 <h3 align="center">Um amante da programação e videogames formado em analise e desenvolvimento de sistemas</h3>
 
-<p>[![trophy](https://github-profile-trophy.vercel.app/?username=fabergames1&theme=onedark)](https://github.com/fabergames1/github-profile-trophy)</p> 
-
 <p align="left"> <a href="https://github.com/fabergames1/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabergames1&theme=onedark" alt="fabergames1" /></a> </p>
 
 - 🔭 Atualmente trabalho na empresa: **Procurando Emprego!**
