@@ -38,4 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabergames1&show_icons=true&theme=dracula&locale=en" alt="fabergames1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabergames1&theme=dracula" alt="fabergames1" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=fabergames1&theme=dracula" alt="fabergames1" /></p>
