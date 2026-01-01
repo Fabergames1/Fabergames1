@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fabricio Borsato de Oliveira Perrone</h1>
 <h3 align="center">Um amante da programação e videogames formado em analise e desenvolvimento de sistemas</h3>
 
-<p align="left"> <a href="https://github.com/Fabergames1/github-profile-trophy"><img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Fabergames1&theme=dracula" alt="fabergames1" /></a> </p>
-
 # 💫 About Me:
 🔭 Atualmente trabalho na empresa: Faber.games and Epic Games!<br><br>🌱 Atualmente meus hobbies sao: Games, Animes e Leitura!<br><br>👯 Meu relacionamento atual: e Solteiro!<br><br>🤝 Estou disposto a ajudar as: Pessoas Necessitadas!<br><br>📝Meu principal local de estudo: <a href="https://www.udemy.com">Udemy</a><br><br>💬 Pergunte-me sobre: TUDO O QUE DESEJAR!<br><br>📄 Meus pontos fortes são: Adoro trabalhar em equipe e desenvolver capacidades!<br><br>⚡ Sou uma pessoa: Alegre, divertida e extrovertida!
 
@@ -18,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fabergames1&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fabergames1&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+<p align="left"> <a href="https://github.com/Fabergames1/github-profile-trophy"><img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Fabergames1&theme=dracula" alt="fabergames1" /></a> </p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
@@ -31,6 +29,3 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/fabriciodesenvolvedordeti@gmail.com) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
