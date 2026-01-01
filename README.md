@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/Fabergames1/github-profile-trophy"><img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Fabergames1&theme=dracula" alt="fabergames1" /></a> </p>
 
 # 💫 About Me:
-🔭 Atualmente trabalho na empresa: Faber.games and Epic Games!<br><br>🌱 Atualmente meus hobbies sao: Games, Animes e Leitura!<br><br>👯 Meu relacionamento atual: e Solteiro!<br><br>🤝 Estou disposto a ajudar as: Pessoas Necessitadas!<br><br>👨‍💻 meu linkedin e: https://www.linkedin.com/in/fabricio-perrone-1709221a5<br><br>📝Meu principal local de estudo: Udemy.com<br><br>💬 Pergunte-me sobre: TUDO O QUE DESEJAR!<br><br>📫 meu email e: fabriciodesenvolvedordeti@gmail.com<br><br>📄 Meus pontos fortes são: Adoro trabalhar em equipe e desenvolver capacidades!<br><br>⚡ Sou uma pessoa: Alegre, divertida e extrovertida!
+🔭 Atualmente trabalho na empresa: Faber.games and Epic Games!<br><br>🌱 Atualmente meus hobbies sao: Games, Animes e Leitura!<br><br>👯 Meu relacionamento atual: e Solteiro!<br><br>🤝 Estou disposto a ajudar as: Pessoas Necessitadas!<br><br>📝Meu principal local de estudo: Udemy.com<br><br>💬 Pergunte-me sobre: TUDO O QUE DESEJAR!<br><br>📄 Meus pontos fortes são: Adoro trabalhar em equipe e desenvolver capacidades!<br><br>⚡ Sou uma pessoa: Alegre, divertida e extrovertida!
 
 
 ## 🌐 Socials:
