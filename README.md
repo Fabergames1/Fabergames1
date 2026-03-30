@@ -16,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fabergames1&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/Fabergames1/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fabergames1&theme=dracula" alt="fabergames1" /></a> </p>
+<p align="left"> <a href="https://github.com/Fabergames1/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fabergames1&theme=monokai" alt="fabergames1" /></a> </p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
