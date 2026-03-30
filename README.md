@@ -2,7 +2,7 @@
 <h3 align="center">Um amante da programação e videogames formado em analise e desenvolvimento de sistemas</h3>
 
 # 💫 About Me:
-🔭 Atualmente trabalho na empresa: Faber.games and Epic Games!<br><br>🌱 Atualmente meus hobbies sao: Games, Animes e Leitura!<br><br>👯 Meu relacionamento atual: e Solteiro!<br><br>🤝 Estou disposto a ajudar as: Pessoas Necessitadas!<br><br>📝Meu principal local de estudo: <a href="https://www.udemy.com">Udemy</a><br><br>💬 Pergunte-me sobre: TUDO O QUE DESEJAR!<br><br>📄 Meus pontos fortes são: Adoro trabalhar em equipe e desenvolver capacidades!<br><br>⚡ Sou uma pessoa: Alegre, divertida e extrovertida!
+🔭 Atualmente trabalho na empresa: Epic games e como Autonomo!<br><br>🌱 Atualmente meus hobbies sao: Games, Animes e Leitura!<br><br>👯 Meu relacionamento atual: e Solteiro!<br><br>🤝 Estou disposto a ajudar as: Pessoas Necessitadas!<br><br>📝Meu principal local de estudo: <a href="https://www.udemy.com">Udemy</a><br><br>💬 Pergunte-me sobre: TUDO O QUE DESEJAR!<br><br>📄 Meus pontos fortes são: Adoro trabalhar em equipe e desenvolver capacidades!<br><br>⚡ Sou uma pessoa: Alegre, divertida e extrovertida!
 
 
 ## 🌐 Socials:
