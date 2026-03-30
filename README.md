@@ -53,7 +53,7 @@
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Fabergames1&show_icons=true&theme=monokai)
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/Fabergames1/github-profile-trophy"><img src="https://github-profile-repo.vercel.app/?username=Fabergames1&theme=monokai" alt="fabergames1" /></a> </p>
+<p align="left"> <a href="https://github-profile-repo.vercel.app/?username=Fabergames1&theme=monokai"><img src="https://github-profile-repo.vercel.app/?username=Fabergames1&theme=monokai" alt="fabergames1" /></a> </p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)
