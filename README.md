@@ -50,8 +50,10 @@
 [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/) 
 [![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/) 
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Fabergames1&show_icons=true&theme=monokai)
+
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-repo.vercel.app/?username=Fabergames1&theme=monokai)
 
@@ -61,7 +63,6 @@
 ### 🔝 Top Contributed Repo
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Fabergames1&theme=monokai)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Fabergames1&layout=compact&theme=monokai)
-[![](https://visitcount.itsvg.in/api?id=fabergames1&icon=9&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=F72SJRJQCHQW2) 
