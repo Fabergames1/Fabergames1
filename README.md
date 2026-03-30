@@ -19,7 +19,7 @@
 <p align="left"> <a href="https://github.com/Fabergames1/github-profile-trophy"><img src="https://github-profile-repo.vercel.app/?username=Fabergames1&theme=tokyonight" alt="fabergames1" /></a> </p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fabergames1&limit=5&theme=dracula&combine_all_yearly_contributions=true)
