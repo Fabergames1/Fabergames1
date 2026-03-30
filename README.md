@@ -19,9 +19,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fabergames1&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
----
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Fabergames1&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Fabergames1&layout=compact&theme=tokyonight)
 [![](https://visitcount.itsvg.in/api?id=fabergames1&icon=9&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
